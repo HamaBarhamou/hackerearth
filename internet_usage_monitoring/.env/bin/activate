@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/home/barhamou/github-projet/hackerearth/.env"
+VIRTUAL_ENV="/home/barhamou/github-projet/hackerearth/internet_usage_monitoring/.env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
